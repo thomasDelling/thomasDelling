@@ -59,7 +59,7 @@
 
 ## 📊 GitHub Stats
 
-![Thomas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeuUsuarioAqui&show_icons=true&theme=radical)
+![Thomas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thomasDelling&show_icons=true&theme=radical)
 
 ---
 
